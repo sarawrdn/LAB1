@@ -28,7 +28,7 @@ $mysqli->close();
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Responsive team section</title>
+	<title>Jelly Bean</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 	<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
@@ -41,7 +41,7 @@ $mysqli->close();
 
 	<section class="team">
 		<div class="center">
-			<h1>Our Team</h1>
+			<h1>Our Team // Jelly Bean</h1>
 		</div>
 
 
